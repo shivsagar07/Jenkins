@@ -8,9 +8,9 @@ yum install fontconfig java-17-openjdk
 
 yum install jenkins
 
-systemctl start jenkin
+systemctl start jenkins
 
-systemctl enable jenkin
+systemctl enable jenkins
 
-systemctl status jenkin
+systemctl status jenkins
   
